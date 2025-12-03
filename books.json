@@ -1,1 +1,62 @@
-[{"id": "riyad", "name": "رياض الصالحين", "description": "كتاب يحتوي على أحاديث مختارة في فضائل الأعمال، والترغيب والترهيب."}]
+[
+  {
+    "id": "riyad",
+    "title": "رياض الصالحين",
+    "author": "الإمام النووي",
+    "collection": "رياض الصالحين"
+  },
+  {
+    "id": "bukhari",
+    "title": "صحيح البخاري",
+    "author": "الإمام البخاري",
+    "collection": "الجوامل"
+  },
+  {
+    "id": "muslim",
+    "title": "صحيح مسلم",
+    "author": "الإمام مسلم",
+    "collection": "الجوامل"
+  },
+  {
+    "id": "abu_dawud",
+    "title": "سنن أبي داود",
+    "author": "أبو داود السجستاني",
+    "collection": "السنن"
+  },
+  {
+    "id": "tirmidhi",
+    "title": "جامع الترمذي",
+    "author": "الإمام الترمذي",
+    "collection": "السنن"
+  },
+  {
+    "id": "nasaai",
+    "title": "سنن النسائي",
+    "author": "الإمام النسائي",
+    "collection": "السنن"
+  },
+  {
+    "id": "ibn_majah",
+    "title": "سنن ابن ماجه",
+    "author": "ابن ماجه القزويني",
+    "collection": "السنن"
+  },
+  {
+    "id": "qudsi",
+    "title": "الأحاديث القدسية",
+    "author": "مجموعة من الرواة",
+    "collection": "أحاديث قدسية"
+  },
+  {
+    "id": "nawawi40",
+    "title": "الأربعون النووية",
+    "author": "الإمام النووي",
+    "collection": "متون"
+  },
+  {
+    "id": "muwatta",
+    "title": "موطأ مالك",
+    "author": "الإمام مالك",
+    "collection": "الموطآت"
+  }
+]
