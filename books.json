@@ -9,54 +9,54 @@
     "id": "bukhari",
     "title": "صحيح البخاري",
     "author": "الإمام البخاري",
-    "collection": "الجوامل"
+    "collection": "الصحاح"
   },
   {
     "id": "muslim",
     "title": "صحيح مسلم",
     "author": "الإمام مسلم",
-    "collection": "الجوامل"
+    "collection": "الصحاح"
   },
   {
     "id": "abu_dawud",
     "title": "سنن أبي داود",
     "author": "أبو داود السجستاني",
-    "collection": "السنن"
+    "collection": "كتب السنن"
   },
   {
     "id": "tirmidhi",
     "title": "جامع الترمذي",
     "author": "الإمام الترمذي",
-    "collection": "السنن"
+    "collection": "كتب السنن"
   },
   {
     "id": "nasaai",
     "title": "سنن النسائي",
     "author": "الإمام النسائي",
-    "collection": "السنن"
+    "collection": "كتب السنن"
   },
   {
     "id": "ibn_majah",
     "title": "سنن ابن ماجه",
-    "author": "ابن ماجه القزويني",
-    "collection": "السنن"
+    "author": "ابن ماجه",
+    "collection": "كتب السنن"
   },
   {
     "id": "qudsi",
     "title": "الأحاديث القدسية",
-    "author": "مجموعة من الرواة",
-    "collection": "أحاديث قدسية"
+    "author": "مجموعة أحاديث",
+    "collection": "أحاديث متنوعة"
   },
   {
     "id": "nawawi40",
     "title": "الأربعون النووية",
     "author": "الإمام النووي",
-    "collection": "متون"
+    "collection": "مجاميع الحديث"
   },
   {
     "id": "muwatta",
     "title": "موطأ مالك",
     "author": "الإمام مالك",
-    "collection": "الموطآت"
+    "collection": "كتب الحديث"
   }
 ]
