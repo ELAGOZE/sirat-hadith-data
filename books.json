@@ -1,62 +1,42 @@
 [
   {
-    "id": "riyad",
-    "title": "رياض الصالحين",
-    "author": "الإمام النووي",
-    "collection": "رياض الصالحين"
-  },
-  {
     "id": "bukhari",
-    "title": "صحيح البخاري",
-    "author": "الإمام البخاري",
-    "collection": "الصحاح"
+    "name": "صحيح البخاري"
   },
   {
     "id": "muslim",
-    "title": "صحيح مسلم",
-    "author": "الإمام مسلم",
-    "collection": "الصحاح"
+    "name": "صحيح مسلم"
   },
   {
-    "id": "abu_dawud",
-    "title": "سنن أبي داود",
-    "author": "أبو داود السجستاني",
-    "collection": "كتب السنن"
+    "id": "abudawud",
+    "name": "سنن أبي داود"
   },
   {
     "id": "tirmidhi",
-    "title": "جامع الترمذي",
-    "author": "الإمام الترمذي",
-    "collection": "كتب السنن"
+    "name": "جامع الترمذي"
   },
   {
-    "id": "nasaai",
-    "title": "سنن النسائي",
-    "author": "الإمام النسائي",
-    "collection": "كتب السنن"
+    "id": "nasai",
+    "name": "سنن النسائي"
   },
   {
-    "id": "ibn_majah",
-    "title": "سنن ابن ماجه",
-    "author": "ابن ماجه",
-    "collection": "كتب السنن"
+    "id": "ibnmajah",
+    "name": "سنن ابن ماجه"
   },
   {
-    "id": "qudsi",
-    "title": "الأحاديث القدسية",
-    "author": "مجموعة أحاديث",
-    "collection": "أحاديث متنوعة"
+    "id": "malik",
+    "name": "موطأ مالك"
+  },
+  {
+    "id": "riyad",
+    "name": "رياض الصالحين"
   },
   {
     "id": "nawawi40",
-    "title": "الأربعون النووية",
-    "author": "الإمام النووي",
-    "collection": "مجاميع الحديث"
+    "name": "الأربعون النووية"
   },
   {
-    "id": "muwatta",
-    "title": "موطأ مالك",
-    "author": "الإمام مالك",
-    "collection": "كتب الحديث"
+    "id": "qudsi",
+    "name": "الأحاديث القدسية"
   }
 ]
